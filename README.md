@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Accessibility<a name="about-project"></a>
+# 📖 Balance_Sheet<a name="about-project"></a>
 <table style="border: 2px solid black;">
   <tr>
     <th>Student Info</th>
@@ -45,19 +45,16 @@
       <td><img src="/images/bottomPartFilled.jpg" alt="Filled Registration Form" width="300"  height="270" /></td>
   </tr>
 </table>
-**Accessibility** is making your webpage easy for all people to use – even people with disabilities.
+**Balance_Sheet** project will produce a lesson on how to use CSS pseudo selectors to build a balance sheet and trigger events on your webpage. This repo includes all the code and instructions you need to follow along.
 
-In this course, you'll build a quiz webpage. You'll learn accessibility tools such as keyboard shortcuts, ARIA attributes, and design best practices.. 
 <br>
 <br>
 
 **Here are some features of the page:**
 <ul>
-<li>Enter Student Info</li>
-<li>Answer True or False Questions</li>
-<li>Answer CSS question from a list of options</li>
-<li>Provide questions if needed</li>
-<li>Submit the form</li>
+<li>View Balance sheet</li>
+<li></li>
+
 
 </ul>
 
@@ -74,7 +71,7 @@ In this course, you'll build a quiz webpage. You'll learn accessibility tools su
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-[Accessibility](https://lucash2022.github.io/Accessibility/)
+[Balance_Sheet](https://lucash2022.github.io/Balance_Sheet/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,9 +84,9 @@ In this course, you'll build a quiz webpage. You'll learn accessibility tools su
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/Lucash2022/Accessibility.git
+- On the terminal run this command git clone https://github.com/Lucash2022/Balance_Sheet.git
 
-- Go to the repository folder using command prompt cd Accessibility.
+- Go to the repository folder using command prompt cd Balance_Sheet.
 
 - Install the dev dependencies for linters run npm install.
 
@@ -114,7 +111,7 @@ Clone this repository to your desired folder:
 
 - Open the command prompt in the created directory.
 
-- On the terminal run this command git clone https://github.com/Lucash2022/Accessibility.git
+- On the terminal run this command git clone https://github.com/Lucash2022/Balance_Sheet.git
 
 - Go to the repository folder using command prompt cd RegistrationForm.
 
