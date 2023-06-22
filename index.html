@@ -12,11 +12,21 @@
     <main>
         <section>
             <h1>
+                Step 4
+                Screen readers announce HTML elements based on the document flow. We will eventually want the balance
+                sheet to have a heading of "Balance Sheet" and a subheading of "AcmeWidgetCorp". However, this order
+                does not make sense if announced by a screen reader.
+
                 <span class="flex">
                     <span>AcmeWidgetCorp</span>
                     <span>Balance Sheet</span>
                 </span>
-            </h1><!-- Answer to step 3-->
+            </h1>
+            <!-- Answer to step 3-->
+
+            <div id="years" aria-hidden="true">
+                <!-- Content within the div -->
+            </div>
         </section>
     </main>
 </body>
